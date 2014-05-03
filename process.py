@@ -1,3 +1,7 @@
+#this is the main program to be run
+# call ie_preprocess(document) where document will be the text whose er raph you want to obtain
+
+
 import nltk.tokenize
 from nltk.tag.sequential import ClassifierBasedPOSTagger
 from nltk.corpus import treebank
